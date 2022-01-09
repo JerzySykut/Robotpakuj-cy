@@ -34,5 +34,4 @@ while ilosc_sztuk > 0:
 print("liczba paczek wysłałnych ", format(liczba_paczek_wyslanych))
 print("liczba kilogramow wyslanych ", format(suma_kilogrmow_wyslanych))
 print("suma pustych kilogramow ", format(suma_pustych_kg))
-
 print("najbardziej pusta paczka: nr ", format(numer_paczki), " waży ", format(najleżejsza_paczka), " kg")
